@@ -1,0 +1,97 @@
+[08:26:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:26:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:26:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:26:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:26:10] [Server thread/INFO]: Starting minecraft server version 1.14.2
+[08:26:10] [Server thread/INFO]: Loading properties
+[08:26:10] [Server thread/INFO]: Default game type: SURVIVAL
+[08:26:10] [Server thread/INFO]: Generating keypair
+[08:26:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:26:11] [Server thread/INFO]: Using epoll channel type
+[08:26:11] [Server thread/INFO]: Preparing level "world"
+[08:26:11] [Server thread/INFO]: Reloading ResourceManager: Default
+[08:26:13] [Server thread/INFO]: Loaded 6 recipes
+[08:26:14] [Server thread/INFO]: Loaded 811 advancements
+[08:26:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:22] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:24] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:24] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:26:49] [Server thread/INFO]: Preparing spawn area: 0%
+[08:26:49] [Server thread/INFO]: Preparing spawn area: 1%
+[08:26:49] [Server thread/INFO]: Preparing spawn area: 55%
+[08:26:50] [Server thread/INFO]: Time elapsed: 32996 ms
+[08:26:50] [Server thread/INFO]: Done (39.055s)! For help, type "help"
+[20:59:36] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_191]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_191]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_191]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_191]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_191]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_191]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_191]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_191]
+	at ug$2.run(SourceFile:109) [minecraft_server.1.14.2.jar:?]
